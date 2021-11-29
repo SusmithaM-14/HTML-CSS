@@ -1,0 +1,229 @@
+body
+{
+    font-family: 'Caros', sans-serif;
+    width: 100%;
+}
+#main
+{
+    background-image:url('../Images/Vector-1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: azure;
+    background-attachment: fixed;
+}
+#first{
+    float: left;
+    
+}
+ul li:link{
+ color:black
+}
+#side
+{
+    display: inline-block;
+    margin: 50px;
+    padding: 30px;
+    width: 20%;
+    line-height: 20px;
+}
+#side p{
+    line-height: 2em;
+    font-size: 14px;
+}
+#side a{
+    text-decoration: none;
+    color: orangered;
+}
+#form h2{
+    line-height: 0%;
+}
+#form p{
+    line-height: 0%;
+}
+#form 
+    {
+        width: 40%;
+        margin: 20px;
+        padding: 20px;
+        float: right;
+        border: azure 1px ;
+        background-color: white;
+    }
+
+button 
+{
+        background-color: rgb(244, 30, 10);
+        padding:20px;
+        color: black;
+        border: none;
+        border-radius: 5px;
+        width: 100%;
+}
+button:hover
+{
+    background-color: floralwhite;
+   
+    
+}
+input:hover{
+    border-color: brown;
+}
+#follow p{
+    position:relative;
+    display: inline-block;
+    font-size: 21px;
+   margin-left: 25%;
+}
+#follow
+{
+    margin-top: 50px;
+    padding-left: 25%;
+    
+}
+#social p{
+    margin-left: 25%;
+    font-weight: 400;
+    width: 20%;
+    line-height: 2rem;
+}
+#social {
+    margin-right: 20%;
+}
+#media{
+   margin:20px ;
+   float: right;
+   margin-right: 40%;
+  width: 40%;
+    
+}
+#media img{
+    margin-bottom: 40%;
+}
+#footer img{
+    float:left;
+    display: inline;
+}
+#icon img{
+    
+    position: fixed;
+}
+#products ul{
+    list-style: none;
+    float: right;
+    margin-right: 25%;
+}
+#industry ul{
+    list-style: none;
+    float: right;
+}
+#icon img{
+    position: fixed;
+    bottom:22px;
+    z-index: 10000;
+    float: right;
+    right:21px;
+}
+div ul li
+{
+    display:block;
+     float: left;
+     padding-left: 40px;
+     padding-bottom: 20px;  
+}
+div ul
+{
+    padding-left: 100px;
+    padding-bottom: 40px;
+    float: right;
+}
+div ul li:hover
+{
+    color: orangered;
+}
+div ul li:visited
+{
+color: black;
+}
+div ul li:link
+{
+    color: black;
+}
+#copyright
+{
+    position: absolute;
+    text-decoration: none;
+    top: 430%;
+    bottom: 25%;
+    left:25%;
+   
+}
+#copyright a:hover
+{
+    color: orangered;
+   
+}
+#copyright a{
+    text-decoration: none;
+    color: orangered;
+}
+#copyright{
+    float: inline-end;
+}
+#image1 
+{
+    margin-left: 10px;
+    float:left;
+    position: absolute;
+
+}
+#image2 
+{
+   position: relative;
+   float: left;
+    margin-left: 20px;
+   
+}
+#image3 
+
+{ 
+    position: absolute;
+     float:right;
+    margin-top: 500px;
+    margin-right: 10px;
+}
+#office1
+{
+    float: left;
+    display: inline;
+    position: relative;
+}
+#image4
+{
+  
+    margin-left: 15px;
+}
+#image5
+{
+   
+    margin-left: 15px;
+}
+.division2 ul{
+    border-right: 100px;
+    height: 840px;
+    padding: 5px;
+    }
+    .division2 ul li{
+    float: left;
+    border: solid;
+    border-color: #D3E2ED;
+    border-width: 1px;
+    margin-left: 12px;
+    margin-right: -7px;
+    width: 362px;
+    height: 400px;
+    margin-top: 20px;
+    }
+    .division2 ul li h3{
+    margin-left:20px ;
+    color: #283a5e;
+    }
